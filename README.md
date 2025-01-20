@@ -1,13 +1,13 @@
 # DeepAVC
-DeepAVC is a deep learning framework for highly accurate broad-spectrum antiviral compound prediction
-
-## Abstract
+DeepAVC is a deep learning framework for highly accurate broad-spectrum antiviral compound prediction.
 
 
-## DeepPAVC
+
+
+## DeepPAVC: Phenotype-based antiviral compounds prediction
 ![Overview](DeepPAVC.png)
 
-## DeepTAVC
+## DeepTAVC: Target-based antiviral compounds prediction
 ![Overview](DeepTAVC.png)
 
 
