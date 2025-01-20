@@ -1,7 +1,10 @@
-# DeepAVC 
-![Overview](virus.png)
 
-DeepAVC is a deep learning framework for highly accurate broad-spectrum antiviral compound prediction.
+<img src="virus.png" width="40" height="40" style="vertical-align: middle;margin-right: 5px;"> <span style="font-size:100px; font-weight:bold;"> DeepAVC </span>
+
+ DeepAVC is a deep learning framework for highly accurate broad-spectrum antiviral compound prediction.
+
+
+
 
 
 
