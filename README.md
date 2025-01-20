@@ -4,10 +4,10 @@ DeepAVC is a deep learning framework for highly accurate broad-spectrum antivira
 ## Abstract
 
 
-DeepPAVC
+## DeepPAVC
 ![Overview](DeepPAVC.png)
 
-DeepTAVC
+## DeepTAVC
 ![Overview](DeepTAVC.png)
 
 
