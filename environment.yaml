@@ -1,4 +1,4 @@
-name: KPGT
+name: DeepAVC
 channels:
   - pytorch
   - dglteam
