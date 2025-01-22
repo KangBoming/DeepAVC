@@ -17,5 +17,27 @@ DeepPAVC model only takes compound information as input, utilizes a pre-trained 
 DeepTAVC model requires input from two modalities: compounds and proteins. It employs two distinct pre-trained encoders to extract features from each modality separately, then captures intra- and inter- modality interaction patterns through self-attention and cross-attention mechanisms, and outputs the interaction score between the compound and the protein 
 ![Overview](DeepTAVC.png)
 
+## Publication
+Highly accurate prediction of broad-spectrum antiviral compounds with DeepAVC
+
+## Main requirements
+* python=3.7.13
+* pytorch=1.10.0
+* cudatoolkit=11.3.1
+* scikit-learn=1.0.2
+* pandas=1.3.5
+* numpy=1.21.5
+* fair-esm=2.0.0
+* rdkit=2021.09.2
+
+
+
+
+
+
+
+
+
+
 
 
