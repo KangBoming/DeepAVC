@@ -47,13 +47,30 @@ conda env create -f environment.yml
 conda activate DeepPAVC
 ```
 
+**Step3: model training**
+```
+cd DeepPAVC
+
+Please follow DeepPAVC_train.ipynb 
+
+Please follow DeepTAVC_train.ipynb 
+```
+
+**Step4: model infernece**
+```
+cd DeepPAVC
+
+Please follow DeepPAVC_inference.ipynb 
+
+Please follow DeepTAVC_inference.ipynb 
+```
 
 
 
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/KangBoming/PIC/blob/main/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/KangBoming/DeepAVC/blob/main/LICENSE) file for details
 
 
 ## Contact
