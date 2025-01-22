@@ -31,9 +31,21 @@ Highly accurate prediction of broad-spectrum antiviral compounds with DeepAVC
 * rdkit=2021.09.2
 
 
+## Quick start
 
+**Step1: clone the repo**
+```
+mkdir ./DeepPAVC
+cd DeepPAVC
+git clone https://github.com/KangBoming/DeepAVC.git
+```
 
-
+**Step2: create and activate the environment**
+```
+cd DeepPAVC
+conda env create -f environment.yml
+conda activate DeepPAVC
+```
 
 
 
