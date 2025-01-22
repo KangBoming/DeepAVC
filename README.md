@@ -52,4 +52,13 @@ conda activate DeepPAVC
 
 
 
+## License
+This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/KangBoming/PIC/blob/main/LICENSE) file for details
 
+
+## Contact
+Please feel free to contact us for any further queations
+
+Boming Kang <kangbm@bjmu.edu.cn>
+
+Qinghua Cui <cuiqinghua@bjmu.edu.cn>
