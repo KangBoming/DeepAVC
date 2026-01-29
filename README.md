@@ -70,7 +70,7 @@ Please follow CADTI_inference.ipynb
 ```
 ## Web server
 http://www.cuilab.cn/deepavc
-![Overview](DeepPAVC.png)
+![Overview](web_server.png)
 
 
 
