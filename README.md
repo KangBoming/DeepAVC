@@ -68,7 +68,8 @@ Please follow DeepTAVC_inference.ipynb
 # General predition of compound-protein interaction
 Please follow CADTI_inference.ipynb
 ```
-
+## Web server
+http://www.cuilab.cn/deepavc
 
 
 
