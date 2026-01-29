@@ -59,9 +59,14 @@ Please follow DeepTAVC_train.ipynb
 ```
 cd DeepAVC
 
-Please follow DeepPAVC_inference.ipynb 
+# Phenotype-based antivrial activity prediciton
+Please follow DeepPAVC_inference.ipynb
 
-Please follow DeepTAVC_inference.ipynb 
+# Target-based antivrial activity prediction
+Please follow DeepTAVC_inference.ipynb
+
+# General predition of compound-protein interaction
+Please follow CADTI_inference.ipynb
 ```
 
 
