@@ -1,5 +1,4 @@
 
-
 # DeepAVC
 
 
@@ -18,7 +17,7 @@ DeepTAVC model requires input from two modalities: compounds and proteins. It em
 ![Overview](DeepTAVC.png)
 
 ## Publication
-Highly accurate prediction of broad-spectrum antiviral compounds with DeepAVC
+Bridging antiviral drug discovery with a large language model-powered framework
 
 ## Main requirements
 * python=3.7.13
@@ -35,30 +34,30 @@ Highly accurate prediction of broad-spectrum antiviral compounds with DeepAVC
 
 **Step1: clone the repo**
 ```
-mkdir ./DeepPAVC
-cd DeepPAVC
+mkdir ./DeepAVC
+cd DeepAVC
 git clone https://github.com/KangBoming/DeepAVC.git
 ```
 
 **Step2: create and activate the environment**
 ```
-cd DeepPAVC
+cd DeepAVC
 conda env create -f environment.yml
-conda activate DeepPAVC
+conda activate DeepAVC
 ```
 
 **Step3: model training**
 ```
-cd DeepPAVC
+cd DeepAVC
 
-Please follow DeepPAVC_train.ipynb 
+Please follow DeepPAVC_train.ipynb
 
 Please follow DeepTAVC_train.ipynb 
 ```
 
 **Step4: model infernece**
 ```
-cd DeepPAVC
+cd DeepAVC
 
 Please follow DeepPAVC_inference.ipynb 
 
