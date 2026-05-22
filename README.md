@@ -73,7 +73,8 @@ http://www.cuilab.cn/deepavc
 ![Overview](web_server.png)
 
 
-
+## Publication
+Kang, B., Zhao, Y., Chen, X. et al. Bridging antiviral drug discovery with a large language model-powered framework. *Commun Biol* (2026). [https://doi.org/10.1038/s42003-026-10291-z](https://doi.org/10.1038/s42003-026-10291-z)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/KangBoming/DeepAVC/blob/main/LICENSE) file for details
